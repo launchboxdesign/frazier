@@ -23,7 +23,7 @@ Include logo/demo screenshot etc.
 Ex. -
 
 <b>Built with</b>
-- [Bootstrap](https://electron.atom.io)
+- [Bootstrap](https://getbootstrap.com)
 
 ## Features
 What makes your project stand out?
@@ -56,4 +56,4 @@ Give proper credits. This could be a link to any repo which inspired you to buil
 ## License
 A short snippet describing the license (MIT, Apache etc)
 
-MIT © [Yourname]()
+MIT © [Jason Atkins]()
