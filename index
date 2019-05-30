@@ -49,9 +49,14 @@
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
+      <img src="..." class="d-block w-100" alt="..."><div class="container-fluid">
+  ...
+</div>
     </div>
     <div class="carousel-item">
+      <div class="container-fluid">
+        <img src="..." class="d-block w-100" alt="..."><p>Some content goes in this section</p>
+      </div>
       <img src="..." class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
