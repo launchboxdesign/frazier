@@ -55,7 +55,7 @@
     </div>
     <div class="carousel-item">
       <div class="container-fluid">
-        <img src="..." class="d-block w-100" alt="..."><p>Some content goes in this section</p>
+        <img src="..." class="d-block w-100" alt="..."><p>Some content goes in this section. This content is supposed to be block style and left aligned.</p>
       </div>
       <img src="..." class="d-block w-100" alt="...">
     </div>
