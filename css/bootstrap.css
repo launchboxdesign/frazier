@@ -48,8 +48,8 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
-#nav-logo {
-  width: 100%;
+#logo {
+  width: 30%;
   height: auto;
 }
 
