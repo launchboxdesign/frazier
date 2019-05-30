@@ -1,3 +1,91 @@
+<!DOCTYPE HTML>
+<html lang = "en">
+<head>
+  <title>Frazier Family Tree</title>
+  <meta charset = "UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="css/bootstrap-grid.css">
+  <link rel="stylesheet" href="css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="css/bootstrap-reboot.css">
+  <link rel="stylesheet" href="css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="css/bootstrap.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+</head>
+<body>
+<! -- Start of Header -->
+  <header>
+    <a href="#"><img id="logo" src="www.frazierfamily.com" /></a>
+    <nav>
+      <ul class="nav justify-content-end">
+        <li class="nav-item">
+          <a class="nav-link" href="#">Love Story</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">The Beginning</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">World Travels</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Timeline</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#" tabindex="" aria-disabled="">Lineage</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="jumbotron jumbotron-fluid">
+      <div class="container">
+        <h1 class="display-4">Family is Everything</h1>
+        <p class="lead">Some relevant information about Martha Ann Wesson Frazier will go here in this text area.</p>
+        <a class="btn btn-primary btn-lg" href="#" role="button">Start Your Journey</a>
+      </div>
+    </div>
+  </header>
+<! -- End of Header -->
+
+<! -- Start of Homepage Content Section -->
+<section>
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item">
+      <img src="..." class="d-block w-100" alt="..."><div class="container-fluid">
+  ...
+</div>
+    </div>
+    <div class="carousel-item">
+      <div class="container-fluid">
+        <img src="..." class="d-block w-100" alt="..."><p>Some content goes in this section. This content is supposed to be block style and left aligned.</p>
+      </div>
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+</section>
+<! -- End of Homepage Content Section -->
+
+<!-- Start Loading Javascript files -->
+<script src="js/bootstrap.bundle.js"></script>
+<script src="js/bootstrap.bundle.min.js"></script>
+<script src="js/bootstrap.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<!-- End Javascript load files -->
+</body>
+</html>
+
+
+
 # frazier
 ## Project title
 A little info about your project and/ or overview that explains **what** the project is about.
