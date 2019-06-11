@@ -48,11 +48,6 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
-img #logo {
-  width: 30%;
-  height: auto;
-}
-
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
