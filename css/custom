@@ -1,0 +1,71 @@
+/* CUSTOMIZE THE NAVIGATION
+-------------------------------------------------- */
+
+/* Navigation base class */
+.nav-link {
+    font-display: block;
+    color: dimgray;
+}
+.nav-link a :hover {
+    font-weight: 600;
+    color: #3a1666;
+}
+.btn-primary {
+    background-color: #3a1666;
+    border-color: #3a1666;
+}
+.btn {
+   width: 100%;
+   min-width: 10vw;  
+   max-width: 20vw;
+   font-size: 2.25vw;
+}
+.navbar-toggler-icon {
+    background-color: ;
+    border-color: ;
+    border-radius: 3px;
+    padding: 2px;
+    background-image: url("data:image/svg+xml,<svg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'><path stroke='rgba(58, 22, 102, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'"/></svg>);
+}
+.jumbotron {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+.jumbotron-container {
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    padding-left: auto;
+    padding-right: auto;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+.display-3 {
+    font-size: 4.5vw;
+    text-align: center;
+}
+
+.jumbotron-text {
+    font-size: 2.25vw;
+    text-align: center;
+}
+.jumbotron-btn {
+    text-align: center;
+}
+a .center {
+    margin:auto;
+}
+.footer-text-align {
+    text-align: center;
+}
+.jumbotron-footer {
+    margin-bottom: 0;
+}
+.mastfoot{
+   position: relative;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: dimgray;
+   color: black;
+   text-align: center;
+}
