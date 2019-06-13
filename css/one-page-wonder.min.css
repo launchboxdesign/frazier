@@ -14,12 +14,12 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Catamaran';
+  font-family: 'Playfair Display';
   font-weight: 800 !important;
 }
 
 .btn-xl {
-  text-transform: uppercase;
+  text-transform: capitalize;
   padding: 1.5rem 3rem;
   font-size: 0.9rem;
   font-weight: 700;
@@ -45,7 +45,7 @@ h6 {
   font-size: 1rem;
   letter-spacing: 0.1rem;
   font-weight: 700;
-  text-decoration: underline;
+  text-decoration: none;
   color: white;
   font-type: Playfair Display, serif;
 }
