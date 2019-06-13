@@ -37,11 +37,11 @@ h6 {
 .navbar-custom {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: rgba(79, 32, 140);
+  background-color: rgba(99, 96, 99);
 }
 
 .navbar-custom .navbar-brand {
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-size: 1rem;
   letter-spacing: 0.1rem;
   font-weight: 700;
@@ -51,7 +51,7 @@ h6 {
 }
 
 .navbar-custom .navbar-nav .nav-item .nav-link {
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-size: 0.8rem;
   font-weight: 700;
   letter-spacing: 0.1rem;
