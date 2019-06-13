@@ -37,7 +37,7 @@ h6 {
 .navbar-custom {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: rgba(99, 96, 99);
+  background-color: rgba(212, 212, 212);
 }
 
 .navbar-custom .navbar-brand {
@@ -47,7 +47,7 @@ h6 {
   font-weight: 700;
   text-decoration: none;
   color: white;
-  font-type: Playfair Display, serif;
+  font-family: "Playfair Display", serif;
 }
 
 .navbar-custom .navbar-nav .nav-item .nav-link {
