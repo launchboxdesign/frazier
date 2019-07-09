@@ -62,8 +62,8 @@ header.masthead {
   overflow: hidden;
   padding-top: calc(7rem + 72px);
   padding-bottom: 7rem;
-  background: -webkit-#808080;
-  background: #808080;
+  background: -webkit-rgba(212, 212, 212);
+  background: rgba(212, 212, 212);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
