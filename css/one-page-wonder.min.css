@@ -37,7 +37,7 @@ h6 {
 .navbar-custom {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: rgba(212, 212, 212);
+  background-color: #f2f1f3;
 }
 
 .navbar-custom .navbar-brand {
@@ -62,8 +62,8 @@ header.masthead {
   overflow: hidden;
   padding-top: calc(7rem + 72px);
   padding-bottom: 7rem;
-  background: -webkit-rgba(212, 212, 212);
-  background: rgba(212, 212, 212);
+  background: -webkit-#f2f1f3;
+  background: #f2f1f3;
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
@@ -137,8 +137,8 @@ header.masthead .bg-circle-4 {
 }
 
 .btn-primary {
-  background-color: #ee0979;
-  border-color: #ee0979;
+  background-color: #4f208c;
+  border-color: #4f208c;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
