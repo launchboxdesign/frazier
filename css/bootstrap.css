@@ -51,9 +51,9 @@ html {
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
-.main {
-  padding-top: 3%;
-  padding-bottom: 3%;
+element {
+  margin-top: 10%;
+  margin-bottom: 3%;
 }
 
 body {
