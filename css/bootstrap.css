@@ -51,6 +51,10 @@ html {
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
+.main {
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
 
 body {
   margin: 0;
@@ -4548,7 +4552,7 @@ input[type="button"].btn-block {
 .navbar-dark .navbar-text a:hover, .navbar-dark .navbar-text a:focus {
   color: #fff;
 }
-main {
+.main {
   padding-top: 3%;
   padding-bottom: 3%;
 }
