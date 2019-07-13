@@ -6,8 +6,6 @@ var simplemaps_usmap_mapdata={
     background_transparent: "yes",
     border_color: "#ffffff",
     popups: "detect",
-    margin-top: 13%,
-    margin-bottom: 3%,
     
     //State defaults
     state_description: "State Description",
