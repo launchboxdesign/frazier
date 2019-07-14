@@ -64,6 +64,7 @@ header.masthead {
   padding-bottom: 7rem;
   background: -webkit-#939393;
   background-image: url("https://raw.githubusercontent.com/launchboxdesign/frazier/master/images/willie-martha.png");
+  opacity:0.5;
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
