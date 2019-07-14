@@ -62,9 +62,9 @@ header.masthead {
   overflow: hidden;
   padding-top: calc(7rem + 72px);
   padding-bottom: 7rem;
-  background: -webkit-#939393;
+  background: linear-gradient(to right bottom, #648880, #293f50, 0.5);
   background-image: url("https://raw.githubusercontent.com/launchboxdesign/frazier/master/images/willie-martha.png");
-  opacity:0.5;
+  opacity: 0.5;
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
